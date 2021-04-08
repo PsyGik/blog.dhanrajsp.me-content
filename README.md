@@ -1,11 +1,6 @@
 # What's this?
 
-This repo is dedicated to storing comments from my personal blog, https://blog.dhanrajsp.me
+This repo is dedicated to storing 
 
-# Tech Stack
-
-* https://utteranc.es/
-* https://ghost.org
-* Digital Ocean for Hosting
-* Netlify
-* Firebase
+* assets for my personal blog
+* comments from my personal blog, using https://utteranc.es/
