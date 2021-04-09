@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Markdown Test'
-author: [Ghost]
+author: [Dhanraj]
 tags: ['Getting Started']
 image: ./img/welcome-to-ghost.jpg
 date: '2018-05-06T23:46:37.121Z'
