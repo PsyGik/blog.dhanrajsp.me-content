@@ -1,11 +1,11 @@
 ---
 title: 'Hello World 🤓👨🏼‍💻'
-author: ['Dhanraj Padmashali']
+author: 'Dhanraj Padmashali'
 tags: ['misc']
 image: 'https://images.unsplash.com/photo-1516331590554-978b8de25f18'
 date: '2018-05-06T23:46:37.121Z'
 draft: false
-permalink: 'hello-world-local'
+permalink: 'hello-world-remote'
 excerpt: 
 ---
 
