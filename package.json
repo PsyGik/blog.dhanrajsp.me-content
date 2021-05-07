@@ -1,0 +1,21 @@
+{
+  "name": "blog.dhanrajsp.me-content",
+  "version": "1.0.0",
+  "description": "This repo is dedicated to storing",
+  "main": "index.js",
+  "scripts": {
+    "new-post": "node ./script/new-post.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PsyGik/blog.dhanrajsp.me-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PsyGik/blog.dhanrajsp.me-content/issues"
+  },
+  "homepage": "https://github.com/PsyGik/blog.dhanrajsp.me-content#readme"
+}
